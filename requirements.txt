@@ -1,0 +1,15 @@
+# Core Dependencies
+streamlit
+requests
+python-dotenv
+
+# Supabase Client
+supabase
+postgrest
+realtime
+storage3
+gotrue
+
+# Additional Required Libraries
+httpx
+python-dateutil
